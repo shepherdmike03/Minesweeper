@@ -2,7 +2,7 @@
 
 🎮 About the Game
 
-This isn't your grandma's Minesweeper! This is a fully rebuilt version of the classic game, loaded with edgy humor, stunning graphics, and a thrilling story mode.
+This isn't your grandma's Minesweeper! This is a fully rebuilt version of the classic game, loaded with edgy humor, stunning graphics, and a thrilling story.
 
 Features:
 
@@ -36,7 +36,7 @@ Win... or witness a catastrophic explosion with sarcastic commentary.
 
 Clone this repo:
 
-git clone https://github.com/yourusername/minesweeper.git
+git clone https://github.com/shepherdmike03/Minesweeper.git
 
 Open the project in your favorite Java IDE (like IntelliJ or Eclipse).
 
