@@ -1,10 +1,10 @@
-💣 Minesweeper: Explosively Fun Edition
+# 💣 Minesweeper: Explosively Fun Edition
 
-🎮 About the Game
+# 🎮 About the Game
 
 This isn't your grandma's Minesweeper! This is a fully rebuilt version of the classic game, loaded with edgy humor, stunning graphics, and a thrilling story.
 
-Features:
+# Features:
 
 🔥 Fresh UI – Because pixels deserve to look good too!
 
@@ -14,7 +14,7 @@ Features:
 
 🧠 Difficulty Levels – From beginner to absolute masochist.
 
-🛠️ Built With
+# 🛠️ Built With
 
 Language: Java ☕
 
@@ -22,7 +22,7 @@ Graphics: Custom assets for an eye-pleasing experience
 
 Game Engine: Custom-built from scratch
 
-📜 How to Play
+# 📜 How to Play
 
 Click a tile.
 
@@ -32,7 +32,7 @@ If you survive, use logic (or blind luck) to flag the mines and clear the board.
 
 Win... or witness a catastrophic explosion with sarcastic commentary.
 
-🚀 Installation & Running
+# 🚀 Installation & Running
 
 Clone this repo:
 
@@ -42,7 +42,7 @@ Open the project in your favorite Java IDE (like IntelliJ or Eclipse).
 
 Compile and run the main class.
 
-📝 Contributions
+# 📝 Contributions
 
 Want to add more humor or an extra difficulty level called "Nightmare Mode"? Feel free to contribute!
 
@@ -56,6 +56,6 @@ Push to the branch: git push origin cool-feature
 
 Open a Pull Request!
 
-📬 Contact
+# 📬 Contact
 
 Got feedback, bug reports, or existential questions? Drop an issue or reach out!
